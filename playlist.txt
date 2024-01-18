@@ -12,3 +12,7 @@
 	pop1	song1
 	pop2	song2
 	charlie puth Dangerous
+#animation
+	디지몬 디지몬친구들
+	포켓몬	포켓몬
+	
