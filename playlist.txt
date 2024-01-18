@@ -1,9 +1,6 @@
 	가수명	노래명
 ===================
-	르세라핌 퍼펙트나이트
-	아이브	 아이엠
-	이무진	에피소드
-	에스파 드라마
-	정국 seven
-	세븐틴 음악의 신
-	
+	pop		song		
+	pop1	song1
+	pop2	song2
+	charlie puth Dangerous
