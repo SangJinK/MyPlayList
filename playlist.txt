@@ -1,8 +1,14 @@
 	가수명	노래명
 ===================
+#옛날노래
 	트와이스 티티
 	에스파   넥스트레벨
 	동방신기 라이징 썬
 	소녀시대 지
 	에이핑크 미스터츄
 	시스타 마보이
+#popsong
+	pop		song		
+	pop1	song1
+	pop2	song2
+	charlie puth Dangerous
